@@ -2,7 +2,7 @@
     "name": "Mid2Jr/Lab8-Starter",
     "short_name": "Daniel Luo",
     "description": "progressive web app",
-    "start_url": "https://mid2jr.github.io/Lab8-Starter/",
+    "start_url": "./index.html",
     "display": "minimal-ui",
     "background_color": "#ffffff",
     "theme_color": "#000000",
