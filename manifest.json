@@ -4,8 +4,8 @@
     "description": "progressive web app",
     "start_url": "https://mid2jr.github.io/Lab8-Starter/",
     "display": "minimal-ui",
-    "background_color": "blue",
-    "theme_color": "red",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
